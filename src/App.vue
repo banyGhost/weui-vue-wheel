@@ -9,3 +9,10 @@ export default {
   name: 'app'
 }
 </script>
+<style lang="less">
+@import "./style/wheel/index.less";
+html,body{
+  height: 100%;
+  background-color: #fff;
+}
+</style>
